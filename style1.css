@@ -133,7 +133,7 @@ button2:hover {
     background-image: linear-gradient( #240f4b ,#240f4b);
 }
 .container {
-    max-width: 800px;
+    max-width: 900px;
     margin: 20px ;
     padding: 20px;
     background-color:solid #df1c1c;
